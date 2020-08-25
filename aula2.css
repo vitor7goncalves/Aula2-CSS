@@ -1,0 +1,22 @@
+.div
+{
+position:absolute;
+background-color: #000000;
+width:300px;
+height:300px;                             
+margin:100px;
+padding:10px;
+color: #ffffff;
+}
+
+.div2
+{
+position: relative;;
+background-color: #0000ff;
+width:300px;
+height:300px;                             
+margin:100px;
+padding:10px;
+color: #ffffff;
+float: right;
+}
